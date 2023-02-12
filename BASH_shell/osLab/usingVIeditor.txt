@@ -1,0 +1,14 @@
+
+
+1) vi <file_name>
+	This opens vi editor in the terminal.
+
+2) press i to enter insert mode and add text.
+
+3) press esc to enter command mode. 
+
+4) press :x  to save and quit.
+
+
+# to exit from vi editor
+# press :q! 

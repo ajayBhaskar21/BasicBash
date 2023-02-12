@@ -1,0 +1,4 @@
+This is ajju. I wish I had a date with jyoshna or sheshwitha.
+This editing is done in Vi editor and later it became advanced and 
+now it is called as Vim editor. This is command line. Mouse is not working.
+
